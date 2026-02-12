@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**johaanq/johaanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Johan Quiñones
 
-Here are some ideas to get you started:
+**Desarrollador · Data · Automatización**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/johaanq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
+</div>
+
+---
+
+### Sobre mí
+
+Desarrollador enfocado en soluciones prácticas, datos y mejora de procesos. Me interesa construir herramientas que simplifiquen el trabajo y aporten valor real.
+
+- Trabajo con **SQL**, **Python** y **dashboards** para análisis y reportes
+- Experiencia en **bases de datos** (MySQL, consultas y modelado)
+- Interés en **automatización** e **intranets** para equipos
+
+---
+
+### Stack
+
+`SQL` `Python` `MySQL` `Excel` `HeidiSQL` `XAMPP`
+
+---
+
+### Contacto
+
+¿Colaboración o propuestas? Escríbeme por [LinkedIn](https://linkedin.com/in/johaanq) o por email.
+
+---
+
+<div align="center">
+
+*Última actualización: 2025*
+
+</div>
