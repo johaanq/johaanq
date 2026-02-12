@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&text=Johan%20Quiñones&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="header"/>
+# Johan Quiñones
 
-### Full Stack Developer & Software Engineer
+**Full Stack Developer & Software Engineer**
 
-**Ingeniería de Software · 7mo Ciclo — UPC**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo?font=Fira+Code&size=14&duration=3200&pause=1200&color=0A66C2&center=true&vCenter=true&width=340&lines=React+%7C+Next.js+%7C+Spring+Boot;Web+%26+Mobile+%7C+APIs+%26+Microservicios)](https://git.io/typing-svg)
+Ingeniería de Software · 7mo Ciclo — UPC
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johanq.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johaanq)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johaanq)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quinonesjorge83@gmail.com)
-
-<br/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://johanq.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-quinones)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/johaanq)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:quinonesjorge83@gmail.com)
 
 </div>
 
@@ -78,13 +74,7 @@ He contribuido en proyectos colaborativos con **+200 commits** y trabajo en equi
 
 ### 📊 GitHub
 
-<div align="center">
-
-<img src="https://githubcard.com/johaanq.svg" width="400" alt="GitHub stats"/>
-
-</div>
-
-*Estadísticas generadas con [GitHubCard](https://githubcard.com).*
+[Ver mi perfil y repositorios →](https://github.com/johaanq)
 
 ---
 
@@ -92,7 +82,7 @@ He contribuido en proyectos colaborativos con **+200 commits** y trabajo en equi
 
 ### 📫 ¿Colaboramos?
 
-[**Portfolio**](https://johanq.vercel.app) · [LinkedIn](https://linkedin.com/in/johaanq) · [Email](mailto:quinonesjorge83@gmail.com)
+[**Portfolio**](https://johanq.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/johan-quinones) · [**Email**](mailto:quinonesjorge83@gmail.com)
 
 *Desarrollado con Next.js y Tailwind CSS · 2025*
 
