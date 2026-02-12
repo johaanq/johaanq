@@ -27,9 +27,41 @@ He contribuido en proyectos colaborativos con **+200 commits** y trabajo en equi
 
 ### 🛠️ Tecnologías
 
-| Frontend | Backend | Mobile | Bases de datos | Herramientas |
-|----------|---------|--------|----------------|--------------|
-| React · Next.js · TypeScript · JavaScript | Spring Boot · Java · C# · Python | Flutter | MySQL · MongoDB | Git |
+<details>
+<summary><b>Frontend</b></summary>
+
+| Tecnología | Nivel |
+|------------|-------|
+| React | ![Intermedio avanzado](https://img.shields.io/badge/-Intermedio_avanzado-2ea043?style=flat-square) |
+| Next.js | ![Intermedio avanzado](https://img.shields.io/badge/-Intermedio_avanzado-2ea043?style=flat-square) |
+| TypeScript | ![Intermedio avanzado](https://img.shields.io/badge/-Intermedio_avanzado-2ea043?style=flat-square) |
+| JavaScript | ![Intermedio](https://img.shields.io/badge/-Intermedio-0A66C2?style=flat-square) |
+
+</details>
+
+<details>
+<summary><b>Backend</b></summary>
+
+| Tecnología | Nivel |
+|------------|-------|
+| Spring Boot | ![Intermedio avanzado](https://img.shields.io/badge/-Intermedio_avanzado-2ea043?style=flat-square) |
+| Java | ![Intermedio avanzado](https://img.shields.io/badge/-Intermedio_avanzado-2ea043?style=flat-square) |
+| Python | ![Intermedio](https://img.shields.io/badge/-Intermedio-0A66C2?style=flat-square) |
+| C# | ![Intermedio](https://img.shields.io/badge/-Intermedio-0A66C2?style=flat-square) |
+
+</details>
+
+<details>
+<summary><b>Mobile · Bases de datos · Herramientas</b></summary>
+
+| Tecnología | Nivel |
+|------------|-------|
+| Flutter | ![Intermedio](https://img.shields.io/badge/-Intermedio-0A66C2?style=flat-square) |
+| MySQL | ![Intermedio avanzado](https://img.shields.io/badge/-Intermedio_avanzado-2ea043?style=flat-square) |
+| MongoDB | ![Intermedio](https://img.shields.io/badge/-Intermedio-0A66C2?style=flat-square) |
+| Git | ![Intermedio avanzado](https://img.shields.io/badge/-Intermedio_avanzado-2ea043?style=flat-square) |
+
+</details>
 
 <div align="center">
 
@@ -74,15 +106,25 @@ He contribuido en proyectos colaborativos con **+200 commits** y trabajo en equi
 
 ### 📊 GitHub
 
-[Ver mi perfil y repositorios →](https://github.com/johaanq)
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/johaanq?label=Seguidores&style=flat-square&logo=github" />
+<img src="https://img.shields.io/github/watchers/johaanq/johaanq?label=Watchers&style=flat-square&logo=github" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=johaanq&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johaanq&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2" height="165" alt="languages" />
+
+<br/>
+
+[**Ver perfil completo →**](https://github.com/johaanq)
+
+</div>
 
 ---
 
 <div align="center">
-
-### 📫 ¿Colaboramos?
-
-[**Portfolio**](https://johanq.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/johan-quinones) · [**Email**](mailto:quinonesjorge83@gmail.com)
 
 *Desarrollado con Next.js y Tailwind CSS · 2025*
 
