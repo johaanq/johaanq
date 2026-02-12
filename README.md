@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johanq.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johaanq)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johaanq)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quinonesjorge83@gmail.com)
 
 <br/>
 
@@ -80,11 +80,11 @@ He contribuido en proyectos colaborativos con **+200 commits** y trabajo en equi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=johaanq&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2&icon_color=0A66C2" height="160" alt="stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johaanq&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0A66C2" height="160" alt="languages"/>
+<img src="https://githubcard.com/johaanq.svg" width="400" alt="GitHub stats"/>
 
 </div>
+
+*Estadísticas generadas con [GitHubCard](https://githubcard.com).*
 
 ---
 
@@ -92,7 +92,7 @@ He contribuido en proyectos colaborativos con **+200 commits** y trabajo en equi
 
 ### 📫 ¿Colaboramos?
 
-[**Portfolio**](https://johanq.vercel.app) · [LinkedIn](https://linkedin.com/in/johaanq) · [Email](mailto:tu@email.com)
+[**Portfolio**](https://johanq.vercel.app) · [LinkedIn](https://linkedin.com/in/johaanq) · [Email](mailto:quinonesjorge83@gmail.com)
 
 *Desarrollado con Next.js y Tailwind CSS · 2025*
 
