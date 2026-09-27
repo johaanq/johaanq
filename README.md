@@ -4,7 +4,7 @@
 
 **Full Stack Developer & Software Engineer**
 
-Ingeniería de Software · 7mo Ciclo — UPC
+Ingeniería de Software · 9no Ciclo — UPC
 
 <br/>
 
